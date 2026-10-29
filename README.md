@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Coalesceautomation is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/coalesceautomation
+Coalesceautomation, operating under the brand Coalesce, provides a data operating layer that enables humans and AI agents to build, govern, and observe data together. Their platform offers metadata‑driven data pipelines, transformation, cataloging, quality, and governance tools, integrating with major cloud data warehouses such as Snowflake, Databricks, and BigQuery. Founded in 2020 and based in San Francisco, Coalesce serves industries including finance, healthcare, retail, and technology, helping teams accelerate data projects while reducing costs and improving compliance.
+
+**Areas:** Data Platform · Automation · Metadata · Cloud Integration · Artificial Intelligence · San Francisco
+
+## Coalesceautomation on APIs.io
+
+Everything profiled for Coalesceautomation is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/coalesceautomation/](https://apis.io/providers/coalesceautomation/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Coalesce API](https://apis.io/apis/coalesceautomation/coalesce-api/) — API documentation for Coalesce data platform
+- [Coalesceautomation Coalesceautomation API](https://apis.io/apis/coalesceautomation/coalesceautomation-coalesceautomation-api-api/) — The Coalesceautomation API API from Coalesceautomation — 1 operation(s) for coalesceautomation api.
+- [Coalesceautomation Environments API](https://apis.io/apis/coalesceautomation/coalesceautomation-environments-api/) — The Environments API from Coalesceautomation — 1 operation(s) for environments.
+- [Coalesceautomation Projects API](https://apis.io/apis/coalesceautomation/coalesceautomation-projects-api/) — The Projects API from Coalesceautomation — 2 operation(s) for projects.
+- [Coalesceautomation Public API](https://apis.io/apis/coalesceautomation/coalesceautomation-public-api/) — The Public API from Coalesceautomation — 1 operation(s) for public.
+- [Coalesceautomation Scheduler API](https://apis.io/apis/coalesceautomation/coalesceautomation-scheduler-api/) — The Scheduler API from Coalesceautomation — 2 operation(s) for scheduler.
+- [Coalesceautomation Workspaces API](https://apis.io/apis/coalesceautomation/coalesceautomation-workspaces-api/) — The Workspaces API from Coalesceautomation — 1 operation(s) for workspaces.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [DeleteApiV1ProjectsProjectidResponse](https://apis.io/schemas/coalesceautomation/coalesceautomation-delete-api-v1-projects-projectid-response/)
+- [PostPublicGraphqlRequest](https://apis.io/schemas/coalesceautomation/coalesceautomation-post-public-graphql-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Coalesceautomation Context](https://apis.io/jsonld/coalesceautomation/coalesceautomation-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Coalesceautomation API Rules](https://apis.io/rules/coalesceautomation/coalesceautomation-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Coalesceautomation Authentication](https://apis.io/security/coalesceautomation/coalesceautomation-authentication/)
+- [Coalesceautomation Domain Security](https://apis.io/security/coalesceautomation/coalesceautomation-domain-security/)
+- [Coalesceautomation Trust Center](https://apis.io/security/coalesceautomation/coalesceautomation-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Coalesceautomation Plans Pricing](https://apis.io/plans/coalesceautomation/coalesceautomation-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://coalesce.io/company/)
+- [Documentation](https://docs.coalesce.io/)
+- [Getting started](https://docs.coalesce.io/docs/catalog/catalog-onboarding-guide)
+- [Pricing](https://coalesce.io/product/pricing/)
+- [Changelog](https://docs.coalesce.io/docs/catalog/changelog)
+- [Blog](https://coalesce.io/blog/events)
+- [Compliance](https://trust.coalesce.io/)
+- [Terms of service](https://coalesce.io/company/terms/)
+- [Privacy policy](https://coalesce.io/privacy-policy/)
+- [GitHub](https://github.com/coalesceio)
+- [Status](https://status.coalesce.io/)
+
+## API Evangelist rating
+
+**Kin Score 45.3** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 21.4 |
+| Contract governance | 22.0 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 78.9 |
+
+**Agent readiness 28.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/coalesceautomation/](https://apis.io/providers/coalesceautomation/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Coalesceautomation: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/coalesceautomation/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
